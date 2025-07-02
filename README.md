@@ -1,4 +1,4 @@
-# -Comprehensive-Benchmarking-of-Chemical-LLMs
+# Comprehensive-Benchmarking-of-Chemical-LLMs
 
 *Research Project*  
 
